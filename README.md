@@ -10,7 +10,7 @@
    * [Emby / Jellyfin](#emby--jellyfin)
    * [Plex](#plex)
 * [进阶玩法](#进阶说明)
-   * [手动搜索头像](https://github.com/xinxin8816/gfriends/find/master) (日文姓名)
+   * [手动搜索头像](https://github.com/946727185/gfriends/find/master) (日文姓名)
    * 成为 Gfriends 女友头像仓库的贡献者
       * [上传新的头像到仓库](#上传新的头像图片到仓库)
       * [开发及调用](#对女友仓库的开发及调用)
